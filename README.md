@@ -29,11 +29,11 @@ From the results the following conclusions can be drawn:
 * With increasing N more and more points become "definitely" stable
 
 
-![img 1](![telegram-cloud-photo-size-2-5334665465911423782-x](https://user-images.githubusercontent.com/82182857/121442245-e425f380-c993-11eb-9adc-45cf5d008cbc.jpg)
-)
+![img 1](https://user-images.githubusercontent.com/82182857/121442245-e425f380-c993-11eb-9adc-45cf5d008cbc.jpg)
 
-![img 2](![telegram-cloud-photo-size-2-5334665465911423783-x](https://user-images.githubusercontent.com/82182857/121442283-facc4a80-c993-11eb-8c9d-c605ad7765a1.jpg)
-)
+
+![img 2](https://user-images.githubusercontent.com/82182857/121442283-facc4a80-c993-11eb-8c9d-c605ad7765a1.jpg)
+
 
 #### References:
 
