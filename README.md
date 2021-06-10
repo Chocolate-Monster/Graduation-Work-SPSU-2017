@@ -8,8 +8,8 @@ differential-difference systems with a concentrated delay are proposed. My gradu
 
 This repository contains MATLAB code to test and demonstrate the method using an example of an equation:
 
-![equation 1](![telegram-cloud-photo-size-2-5334665465911423785-m](https://user-images.githubusercontent.com/82182857/121483375-c928a300-c9d6-11eb-998b-ec84a7f7a378.jpg)
-)
+![equation 1](https://user-images.githubusercontent.com/82182857/121483375-c928a300-c9d6-11eb-998b-ec84a7f7a378.jpg)
+
 
 #### Algorythm
 
