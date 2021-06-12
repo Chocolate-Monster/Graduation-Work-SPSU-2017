@@ -11,7 +11,7 @@ This repository contains MATLAB code to test and demonstrate the method using an
 ![equation 1](https://user-images.githubusercontent.com/82182857/121483375-c928a300-c9d6-11eb-998b-ec84a7f7a378.jpg)
 
 
-#### Algorythm
+#### Algorithm
 
 1. Choose an equation
 2. Divide the investigated parameter space
